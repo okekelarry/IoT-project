@@ -9,18 +9,18 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 ## Setup: ##
 
 ### Hardware: ###
-Raspberry pi 3
-Micro Sd card 32 GB
-Power supply cables
-Pi-zero camera
-Door motion detector
+* Raspberry pi 3
+* Micro Sd card 32 GB
+* Power supply cables
+* Pi-zero camera
+* Door motion detector
 
 ### Software: ###
 update pi using get-apt update
 
 ## setup camera: ##
-sudo apt-get install python-picamera
-sudo apt-get install python3-picamera  # if running under python3
+- sudo apt-get install python-picamera
+- sudo apt-get install python3-picamera  # if running under python3
 
 ## Execute: ##
 ./file_name.py
