@@ -28,3 +28,10 @@ update pi using get-apt update
 or 
 
 python file_name.py
+
+## To-Do ##
+
+- [X] update Raspberry pi firmware
+- [X] Set up project repository
+- [X] Build demo and finist before 4/28
+- [ ] Make improvements and modifications
