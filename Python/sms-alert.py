@@ -30,7 +30,7 @@ FROM_PHONE = ""
 TXT_MSG = "Door Opened!"
 
 # hostname or IP address of Raspberry Pi + port number
-HOSTNAME = ""
+HOSTNAME = "Yours"
 
 # name and dimensions of snapshot image
 IMG = "snap.jpg"
