@@ -19,8 +19,8 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(SENSOR, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 # put your Twilio credentials here
-ACCOUNT_SID = "Hidden for security reasons"
-AUTH_TOKEN = "Hidden for security Reasons"
+ACCOUNT_SID = "Hidden"
+AUTH_TOKEN = "Hidden"
 
 # make sure to use format with +1 for USA #s. E.G +12463338910
 TO_PHONE = "+185727152**" #Twilio generated phone number for communication
