@@ -18,7 +18,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 ### Software: ###
 - update pi using get-apt update
 - Python 2.7
-- Imgur API - A restful API based on HTTP request and Jason responses
+- Imgur API - A restful API based on HTTP request and Jason responses. will do the same thung a web server will do - saves memory and mnuch more convenient
 
 ## setup camera: ##
 - sudo apt-get install python-picamera
