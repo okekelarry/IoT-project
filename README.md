@@ -25,6 +25,9 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 - Imgur API - A restful API based on HTTP request and Jason responses. will do the same thing a web server will do
 - Twilio API - Cloud communications platform for building SMS, Voice & Messaging applications
 
+## setting up pyimgur ##
+For the github steps to setup pyimgur [Click Here!](https://github.com/Imgur/imgurpython)
+
 ## setup camera: ##
 - Run this command on terminal to enable pi camera and select interfacing option to access option:
   - sudo raspi-config
