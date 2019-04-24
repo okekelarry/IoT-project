@@ -26,7 +26,10 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 - Twilio API - Cloud communications platform for building SMS, Voice & Messaging applications
 
 ## setting up pyimgur ##
-Github page to setup pyimgur/imgurpython and more [Click Here!](https://github.com/Imgur/imgurpython)
+Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://github.com/Imgur/imgurpython)
+
+## setting up twilio ##
+Github page to setup Twilio and more [Click twilio!](https://github.com/twilio/twilio-python)
 
 ## setup camera: ##
 - Run this command on terminal to enable pi camera and select interfacing option to access option:
