@@ -32,13 +32,13 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 `$ sudo easy_install -U RPIO`
 
 ## setting up pyimgur ##
-Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://github.com/Imgur/imgurpython)
+`Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://github.com/Imgur/imgurpython)`
 
 ## setting up twilio ##
-Github page to setup Twilio and more [Click twilio!](https://github.com/twilio/twilio-python)
+`Github page to setup Twilio and more [Click twilio!](https://github.com/twilio/twilio-python)`
 
 ## setting up Python Picamera ##
-Github page to setup python Picamera and more [Click python picamera!](https://github.com/raspberrypilearning/python-picamera-setup/blob/master/worksheet.md)
+`Github page to setup python Picamera and more [Click python picamera!](https://github.com/raspberrypilearning/python-picamera-setup/blob/master/worksheet.md)`
 
 ## setup and test camera: ##
 - Run this command on terminal to enable pi camera and select interfacing option to access option:
