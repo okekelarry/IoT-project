@@ -38,7 +38,7 @@ Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://githu
 Github page to setup Twilio and more [Click twilio!](https://github.com/twilio/twilio-python)
 
 ## setting up Python Picamera ##
-Github page to setup python Picamera and more [Click python picamera!](https://github.com/raspberrypilearning/python-picamera-setup/blob/master/worksheet.md)
+Setup for python Picamera and more [Click python picamera!](https://picamera.readthedocs.io/en/release-1.0/install2.html)
 
 ## setup and test camera: ##
 - Run this command on terminal to enable pi camera and select interfacing option to access option:
