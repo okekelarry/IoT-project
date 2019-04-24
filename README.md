@@ -44,5 +44,5 @@ python file_name.py
 
 - [X] update Raspberry pi firmware
 - [X] Set up project repository
-- [X] Build demo and finist before 4/28
+- [] Build demo and finist before 4/28
 - [ ] Make improvements and modifications
