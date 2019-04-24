@@ -20,15 +20,18 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 * Pi power cable
 
 ### Software: ###
-- update pi using get-apt update
 - OS - Raspbian
 - Python 2.7
 - Imgur API - A restful API based on HTTP request and Jason responses. will do the same thung a web server will do - saves memory and mnuch more convenient
 - Twilio API - Cloud communications platform for building SMS, Voice & Messaging applications
 
 ## setup camera: ##
-- sudo apt-get install python-picamera
-- sudo apt-get install python3-picamera  # if running under python3
+- Run this command on terminal to enable pi camera and select interfacing option to access option:
+  - sudo raspi-config
+- Run the following command to verify pi camera is connected correctly:
+  - rasistill -0 cam_test.jpg
+- Update rpi with this command
+  - sudo rpi-update
 
 ## Execute: ##
 ./file_name.py
