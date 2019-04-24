@@ -23,7 +23,7 @@ ACCOUNT_SID = "Yours"
 AUTH_TOKEN = "Yours"
 
 # make sure to use format with +1 for USA #s. E.G +12463338910
-TO_PHONE = "+185727152**" #Twilio generated phone number for communication
+TO_PHONE = "+185727152**" #Twilio generated phone number for communicating with my phone
 FROM_PHONE = ""
 
 # text message to send with photo
