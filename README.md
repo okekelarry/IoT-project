@@ -22,7 +22,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 ### Software: ###
 - OS - Raspbian
 - Python 2.7
-- Imgur API - A restful API based on HTTP request and Jason responses. will do the same thung a web server will do - saves memory and mnuch more convenient
+- Imgur API - A restful API based on HTTP request and Jason responses. will do the same thung a web server will do
 - Twilio API - Cloud communications platform for building SMS, Voice & Messaging applications
 
 ## setup camera: ##
