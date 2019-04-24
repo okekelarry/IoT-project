@@ -29,7 +29,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 - Run this command on terminal to enable pi camera and select interfacing option to access option:
   - sudo raspi-config
 - Run the following command to verify pi camera is connected correctly:
-  - rasistill -0 cam_test.jpg
+  - raspistill -o cam_test.jpg
 - Update rpi with this command
   - sudo rpi-update
 
