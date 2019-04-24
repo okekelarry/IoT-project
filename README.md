@@ -27,9 +27,9 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 - picamera
 
 ## RPi.GPIO Setup ##
-`$ sudo apt-get install python-setuptools`
+`$ sudo apt-get install python-setuptools
 
-`$ sudo easy_install -U RPIO`
+$ sudo easy_install -U RPIO`
 
 ## setting up pyimgur ##
 Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://github.com/Imgur/imgurpython)
