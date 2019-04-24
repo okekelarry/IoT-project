@@ -14,6 +14,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 * Power supply cables
 * Pi-zero camera
 * Door motion detector
+* Pi Cobbler
 
 ### Software: ###
 - update pi using get-apt update
