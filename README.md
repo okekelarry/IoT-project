@@ -34,7 +34,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 - For more info on RPi.GPIO [Click here!](https://pypi.org/project/RPi.GPIO/)
 
 ## setting up pyimgur ##
-Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://github.com/Damgaard/PyImgur)
+Github page to setup pyimgur and more [Click pyimgur!](https://github.com/Damgaard/PyImgur)
 
 ## setting up twilio ##
 Github page to setup Twilio and more [Click twilio!](https://github.com/twilio/twilio-python)
