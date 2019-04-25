@@ -34,7 +34,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 `$ sudo easy_install -U RPIO`
 
 ## setting up pyimgur ##
-Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://github.com/Imgur/imgurpython)
+Github page to setup pyimgur/imgurpython and more [Click pyimgur!](https://github.com/Damgaard/PyImgur)
 
 ## setting up twilio ##
 Github page to setup Twilio and more [Click twilio!](https://github.com/twilio/twilio-python)
