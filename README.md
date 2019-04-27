@@ -37,7 +37,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 Github page to setup pyimgur and more [Click pyimgur!](https://github.com/Damgaard/PyImgur)
 
 ## setting up twilio ##
-Github page to setup Twilio and more [Click twilio!](https://github.com/twilio/twilio-python)
+Setup page for Twilio-python and more [Click twilio!](https://www.twilio.com/docs/libraries/python)
 
 ## setting up Python Picamera ##
 Setup for python Picamera and more [Click python picamera!](https://picamera.readthedocs.io/en/release-1.0/install2.html)
