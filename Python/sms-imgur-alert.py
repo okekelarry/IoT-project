@@ -73,6 +73,6 @@ try:
 			to=TO_PHONE,
 			from_=FROM_PHONE,
 			body=TXT_MSG_CL
-                 		)
+                 )
 finally:
 	GPIO.cleanup() # ensures a clean exit on CTRL + C
