@@ -11,7 +11,6 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 ### Hardware: ###
 * Raspberry pi 3
 * Micro Sd card 32 GB
-* Power supply cables
 * Pi-zero camera
 * Door motion detector
 * Pi Cobbler
