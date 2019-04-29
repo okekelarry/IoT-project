@@ -58,4 +58,4 @@ python sms-imgur-alert.py
 - [X] update Raspberry pi firmware
 - [X] Set up project repository
 - [X] Build demo and finist before 4/29
-- [X] Make improvements and finished project 4/29
+- [X] Make improvements and finish project 4/29
