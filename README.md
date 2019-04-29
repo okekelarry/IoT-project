@@ -4,7 +4,7 @@
 
 Raspberry Pi with a pi-zero camera module installed and tested running with rasbian OS installed on a 32gb micro SD card with expanded file system.
 
-Side Note: older raspbian build or pi-zero camera module and images are either black or have problems update raspberry pi firmware using sudo apt-get update or optional raspi-update.
+Side Note: older raspbian build or pi-zero camera module and images are either black or have problems updating raspberry pi firmware using sudo apt-get update or optional raspi-update.
 
 ## Setup: ##
 
