@@ -38,6 +38,10 @@ Github page to setup pyimgur and more [Click pyimgur!](https://github.com/Damgaa
 ## setting up twilio ##
 Setup page for Twilio-python and more [Click twilio!](https://www.twilio.com/docs/libraries/python)
 
+## Twilio sms/picture send/recieve price table ##
+Twilio sms/picture price table [Click twilio!](https://www.twilio.com/sms/pricing/us)
+
+
 ## setting up Python Picamera ##
 Setup for python Picamera and more [Click python picamera!](https://picamera.readthedocs.io/en/release-1.0/install2.html)
 
