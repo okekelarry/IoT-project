@@ -21,7 +21,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 ### Software: ###
 - Raspbian - Operating system
 - Python 2.7
-- Imgur API - A restful API based on HTTP request and JSon requests
+- Imgur API - A restful API based on HTTP request and JSon request
   - Link to Imgur API [Imgur API](https://api.imgur.com/)
 - Twilio API - Cloud communications platform for building SMS, Voice & Messaging applications
   - Link to Twilio API [Twilio API](https://www.twilio.com/docs/usage/api)
