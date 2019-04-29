@@ -20,7 +20,7 @@ Side Note: older raspbian build or pi-zero camera module and images are either b
 * Pi power cable
 
 ### Software: ###
-- OS - Raspbian
+- Raspbian - Operating system
 - Python 2.7
 - Imgur API - A restful API based on HTTP request and Jason responses. will do the same thing a web server will do
   - Link to Imgur API [Imgur API](https://api.imgur.com/)
@@ -51,15 +51,11 @@ Setup for python Picamera and more [Click python picamera!](https://picamera.rea
   - sudo rpi-update
 
 ## Execute: ##
-./file_name.py
-
-or 
-
-python file_name.py
+python sms-imgur-alert.py
 
 ## To-Do ##
 
 - [X] update Raspberry pi firmware
 - [X] Set up project repository
-- [ ] Build demo and finist before 4/28
-- [ ] Make improvements and modifications
+- [X] Build demo and finist before 4/29
+- [X] Make improvements and finished project 4/29
