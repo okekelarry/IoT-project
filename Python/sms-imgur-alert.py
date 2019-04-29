@@ -17,7 +17,7 @@ GPIO.setmode(GPIO.BCM)
 # set to pull-up (normally closed position for a door sensor)
 GPIO.setup(SENSOR, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
-# put your Twilio credentials here
+# Twilio API Authentication key & SID credentials here
 ACCOUNT_SID = "AC13aa1cd1edf10d03e9ebcdcc62******"
 AUTH_TOKEN = "7d1f475b5b658c0cf1a092ef2c******"
 
@@ -29,11 +29,10 @@ FROM_PHONE = "+185727*****"
 TXT_MSG_OP = "Door open!"
 TXT_MSG_CL = "Door closed!"
 
-# imgur client setup
+# imgur client ID here
 CLIENT_ID = "cf89a79eab*****"
 
 # name and dimentsions of snapshot image
-IMG = "snap.jpg"
 IMG_WIDTH = 800
 IMG_HEIGHT = 600
 
@@ -52,7 +51,6 @@ try:
 		GPIO.wait_for_edge(SENSOR, GPIO.RISING)
 		print("Door open! Camera activated!!\n")
 		sleep(DELAY)
-		
 		camera.rotation = 180
 		camera.resolution = (IMG_WIDTH, IMG_HEIGHT)
 
