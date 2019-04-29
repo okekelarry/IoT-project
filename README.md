@@ -1,4 +1,4 @@
-# Raspberry Pi Home security camera with motion detection and sms alert #
+# Raspberry Pi Home security camera with door sensor and sms alert #
 
 ## Prerequisites ##
 
