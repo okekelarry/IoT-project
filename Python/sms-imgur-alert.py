@@ -18,19 +18,19 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(SENSOR, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 # Twilio API Authentication key & SID credentials here
-ACCOUNT_SID = "AC13aa1cd1edf10d03e9ebcdcc62******"
-AUTH_TOKEN = "7d1f475b5b658c0cf1a092ef2c******"
+ACCOUNT_SID = "YOUR ACCOUNT_SID"
+AUTH_TOKEN = "YOUR AUTH_TOKEN"
 
 # make sure to use format with +1 for USA #s. E.G +12463338910
-TO_PHONE = "+185723*****"
-FROM_PHONE = "+185727*****"
+TO_PHONE = "+1 YOUR CELL PHONE"
+FROM_PHONE = "+1 YOUR TWILIO NUMBER"
 
 # text message to send with photo
 TXT_MSG_OP = "Door open!"
 TXT_MSG_CL = "Door closed!"
 
 # imgur client ID here
-CLIENT_ID = "cf89a79eab*****"
+CLIENT_ID = "YOUR IMGUR CLIENT_ID"
 
 # name and dimentsions of snapshot image
 IMG_WIDTH = 800
