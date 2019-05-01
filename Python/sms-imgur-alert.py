@@ -74,5 +74,6 @@ try:
 			from_=FROM_PHONE,
 			body=TXT_MSG_CL
                  )
+		camera.stop_preview()
 finally:
 	GPIO.cleanup() # ensures a clean exit on CTRL + C
