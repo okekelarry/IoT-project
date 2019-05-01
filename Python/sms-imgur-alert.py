@@ -76,4 +76,4 @@ try:
                  )
 		camera.stop_preview()
 finally:
-	GPIO.cleanup() # ensures a clean exit on CTRL + C
+	GPIO.cleanup() # ensures a clean exit
