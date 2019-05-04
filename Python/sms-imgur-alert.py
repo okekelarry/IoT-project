@@ -25,7 +25,7 @@ AUTH_TOKEN = "YOUR AUTH_TOKEN"
 TO_PHONE = "+1 YOUR CELL PHONE"
 FROM_PHONE = "+1 YOUR TWILIO NUMBER"
 
-# text message to send with photo
+# text message to send with photo and w/o photo
 TXT_MSG_OP = "Door open!"
 TXT_MSG_CL = "Door closed!"
 
@@ -50,13 +50,13 @@ try:
 
 		GPIO.wait_for_edge(SENSOR, GPIO.RISING)
 		print("Door open! Camera activated!!\n")
-		sleep(DELAY)
+		#sleep(DELAY)
 		camera.rotation = 180
 		camera.resolution = (IMG_WIDTH, IMG_HEIGHT)
 
 		camera.start_preview()
 		for i in range(5):
-			sleep(DELAY) #gives camera time to get ready to take the shot
+			#sleep(DELAY) #gives camera time to get ready to take the shot
 			camera.capture('/home/pi/Desktop/image%s.jpg' % i)
 
 		uploaded_image = im.upload_image('/home/pi/Desktop/image%s.jpg' % i, title=TXT_MSG)
